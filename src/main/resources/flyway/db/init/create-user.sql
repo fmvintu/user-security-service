@@ -1,0 +1,4 @@
+-- Create MySQL User
+CREATE USER 'security_user'@'%'  identified by '(_UserSecUritY_)';
+GRANT USAGE ON *.* TO 'security_user'@'%' IDENTIFIED BY '(_UserSecUritY_)';
+GRANT SELECT, INSERT, UPDATE, DELETE, CREATE, DROP, REFERENCES, INDEX, ALTER, CREATE TEMPORARY TABLES, LOCK TABLES, EXECUTE, CREATE VIEW, SHOW VIEW, CREATE ROUTINE, ALTER ROUTINE, TRIGGER ON `user_security`.* TO 'security_user'@'%';
