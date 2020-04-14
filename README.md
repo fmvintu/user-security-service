@@ -54,7 +54,7 @@ networks:
 # End
 
 # Then run
-docker-compose --project-name advproject up -d
+docker-compose --project-name usersecproject up -d
 
 # Check Adminer
 http://localhost:8080/
