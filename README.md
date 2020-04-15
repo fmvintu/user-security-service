@@ -1,4 +1,4 @@
-# Security Service Control
+# Security Service [![CodeFactor](https://www.codefactor.io/repository/github/fmvintu/user-security-service/badge)](https://www.codefactor.io/repository/github/fmvintu/user-security-service)
 
 ## Getting Started
 
