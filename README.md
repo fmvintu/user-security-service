@@ -1,4 +1,4 @@
-# Security Service [![CodeFactor](https://www.codefactor.io/repository/github/fmvintu/user-security-service/badge)](https://www.codefactor.io/repository/github/fmvintu/user-security-service)
+# Security Service [![CodeFactor](https://www.codefactor.io/repository/github/fmvintu/user-security-service/badge)](https://www.codefactor.io/repository/github/fmvintu/user-security-service) [![Build Status](https://travis-ci.com/fmvintu/user-security-service.svg?branch=master)](https://travis-ci.com/fmvintu/user-security-service)
 
 ## Getting Started
 
